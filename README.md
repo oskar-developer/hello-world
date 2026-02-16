@@ -17,3 +17,7 @@ A simple Hello World HTML page with an interactive JavaScript popup.
 ## Usage
 
 Open `index.html` in your browser and click the button to see the popup!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
